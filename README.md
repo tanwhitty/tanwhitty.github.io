@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<html>
+<br>
 
-You can use the [editor on GitHub](https://github.com/tanwhitty/tanwhitty.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<title>Whit's Links</title>
 
-### Markdown
+</head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<h1 class="entry-title">
+<title><font face="verdana">WHITS LINKS</font></title>
+</h1>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<body bgcolor="#006666" text="#FFFFFF" link="#D0FA58" vlink="#D0FA58">
+<font face="verdana">
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baby.tux.sit-alpha-800x800.png/120px-Baby.tux.sit-alpha-800x800.png">
+<h1><font size="18" face="arial black, monaco">Whit's Links</font></h1>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+&nbsp
 
-### Jekyll Themes
+<a href="http://yahoo.com/mail"><img src="http://cdn.redmondpie.com/wp-content/uploads/2012/12/Yahoo-Mail-logo.png" width="45" height="45"/></a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanwhitty/tanwhitty.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+&nbsp
